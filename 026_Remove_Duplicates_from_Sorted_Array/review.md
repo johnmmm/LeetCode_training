@@ -1,4 +1,4 @@
-# 002_Remove_Duplicates_from_Sorted_Array
+# 026_Remove_Duplicates_from_Sorted_Array
 
 ### Johnmmm 2018.10.30
 
